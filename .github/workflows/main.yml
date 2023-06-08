@@ -1,0 +1,15 @@
+name: Latest todo fetcher
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every minute
+    - cron: '* * * * *'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with latest todos from Todoist
+    steps:
+      - uses: actions/checkout@v2
+      - uses: abhisheknaiidu/todoist-readme@master
+        with:
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
