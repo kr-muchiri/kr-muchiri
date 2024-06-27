@@ -22,7 +22,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr-muchiri&" alt="kr-muchiri" /></p>
 
-## 📝 Latest To-Dos
-<!-- TODO-IST:START -->                
+## Todoist Stats
+
+<!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
