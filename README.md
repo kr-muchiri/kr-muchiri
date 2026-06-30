@@ -9,9 +9,15 @@
 
 ---
 
+### 🔭 Focus
+
+- **Machine Learning** — predictive modeling, forecasting, model fine-tuning
+- **Quantitative Finance** — portfolio optimization, risk modeling, market analysis
+- **Quantum Computing** — algorithms, quantum information, circuit design
+
 ### 🛠️ Tech
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="38" height="38" alt="r"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="38" height="38" alt="sql"/>
@@ -20,11 +26,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="38" height="38" alt="scikit-learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="38" height="38" alt="pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="38" height="38" alt="numpy"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kr-muchiri&show_icons=true&hide_border=true&locale=en" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr-muchiri&layout=compact&hide_border=true&locale=en" height="160" alt="top langs"/>
 </p>
